@@ -1,6 +1,6 @@
 # clone_lineages
 
-This section contains all the of the necessary background to carry out the analysis from Smith et al. (2017). <br />
+This section contains all the of the necessary background to carry out the analyses performed in Smith et al. (2017). <br />
 <br />
 You will need to install the following software: <br />
 <br />
